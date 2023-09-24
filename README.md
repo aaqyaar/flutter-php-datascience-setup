@@ -62,12 +62,16 @@ Make sure to enable extensions relevant to your project, such as pdo_mysql or my
 Download and install the latest version of Python from [the official Python website](https://www.python.org/downloads/).
 
 ### 2. Install Jupyter Notebook:
-
+For Windows
 ```bash
 pip install jupyterlab
 ```
+For macOS/Linux
+```
+brew install jupyterlab
+```
 Run Jupyter Lab:
-```bash Copy code
+```bash
 jupyter lab
 ```
 3. Python Libraries:
