@@ -80,4 +80,4 @@ pip install numpy pandas matplotlib scikit-learn seaborn
 
 Always ensure your tools are up to date to avoid potential compatibility issues.
 Regularly backup your project to prevent data loss.
-Reach out to the community or forums for help if you encounter any challenges.
+Thanks 
