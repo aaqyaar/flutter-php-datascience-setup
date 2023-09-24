@@ -74,7 +74,6 @@ jupyter lab
 Install commonly used data science libraries:
 
 ```bash
-Copy code
 pip install numpy pandas matplotlib scikit-learn seaborn
 ```
 ### Final Notes
